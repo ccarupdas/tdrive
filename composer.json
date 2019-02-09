@@ -3,7 +3,7 @@
     "description": "Shopyfy theme integration",
     "type": "library",
     "require": {
-        "psr/http-message": "^1.0"
+        "symfony/dotenv": "^4.2"
     },
     "autoload": {
 	    "psr-4": {

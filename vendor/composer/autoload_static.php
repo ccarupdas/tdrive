@@ -11,9 +11,9 @@ class ComposerStaticInit9ee13cbbf29abfed979cbd5db397a563
         array (
             'Tdrive\\' => 7,
         ),
-        'P' => 
+        'S' => 
         array (
-            'Psr\\Http\\Message\\' => 17,
+            'Symfony\\Component\\Dotenv\\' => 25,
         ),
     );
 
@@ -22,9 +22,9 @@ class ComposerStaticInit9ee13cbbf29abfed979cbd5db397a563
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
-        'Psr\\Http\\Message\\' => 
+        'Symfony\\Component\\Dotenv\\' => 
         array (
-            0 => __DIR__ . '/..' . '/psr/http-message/src',
+            0 => __DIR__ . '/..' . '/symfony/dotenv',
         ),
     );
 

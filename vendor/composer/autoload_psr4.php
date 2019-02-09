@@ -7,5 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Tdrive\\' => array($baseDir . '/src'),
-    'Psr\\Http\\Message\\' => array($vendorDir . '/psr/http-message/src'),
+    'Symfony\\Component\\Dotenv\\' => array($vendorDir . '/symfony/dotenv'),
 );
