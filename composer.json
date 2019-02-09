@@ -10,8 +10,5 @@
 	        "Tdrive\\": ["src/"]
 	    }
     },
-    "license": "MIT",
-    "require-dev": {
-        "phpunit/phpunit": "5"
-    }
+    "license": "MIT"
 }
