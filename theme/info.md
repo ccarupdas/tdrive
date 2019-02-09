@@ -26,3 +26,4 @@ C:\xampp\htdocs\devop\liquid\config.yml
 git config --global user.email "arup.das@codeclouds.in"
 git config --global user.name "ccarupdas"
 git config --global user.password "Ccarupdas123#"
+composer require --dev phpunit/phpunit ^5
