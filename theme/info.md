@@ -22,5 +22,7 @@ C:\xampp\htdocs\web\workspace\archive\theme.exe get --password=4a846b984b1905090
 C:\xampp\htdocs\web\workspace\archive\theme.exe deploy --password=4a846b984b19050904def5ab70da464e --store=paperflyer.myshopify.com --themeid=46317928527
 C:\xampp\htdocs\devop\liquid\config.yml
 =================
+
+git config --global user.email "arup.das@codeclouds.in"
 git config --global user.name "ccarupdas"
 git config --global user.password "Ccarupdas123#"
